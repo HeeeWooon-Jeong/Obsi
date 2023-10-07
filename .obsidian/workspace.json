@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서브라임 텍스트/랩실.md",
+                "file": "옵시디언 사용법/깃 연동.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "서브라임 텍스트/랩실.md",
+                "file": "옵시디언 사용법/깃 연동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "서브라임 텍스트/랩실.md",
+                "file": "옵시디언 사용법/깃 연동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서브라임 텍스트/랩실.md"
+                "file": "옵시디언 사용법/깃 연동.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2e50d171c49d1814",
   "lastOpenFiles": [
-    "숙제.md",
     "서브라임 텍스트/랩실.md",
+    "숙제.md",
     "랩실",
     "플라스크/플라스크.md",
     "Machine Learning/Deep Learning/23-10-04 딥러닝.md",
